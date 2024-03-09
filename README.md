@@ -20,6 +20,7 @@ These are the main objectives, I also added additional things that weren't requi
 ![Little-lemon-native-onboarding-1](https://github.com/dBish6/Little_Lemon_Native_Capstone/assets/94132443/cd58caa7-e190-45b6-b421-14f51fbfbff7)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Little-lemon-native-onboarding-2](https://github.com/dBish6/Little_Lemon_Native_Capstone/assets/94132443/fd63498b-e132-4b30-9e11-fc4327057d1f)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Little-lemon-native-onboarding-3](https://github.com/dBish6/Little_Lemon_Native_Capstone/assets/94132443/755b2676-a1a1-4c02-a8a7-2f3b9f550804)&nbsp;&nbsp;&nbsp;&nbsp;
+![Little-lemon-native-splash](https://github.com/dBish6/Little_Lemon_Native_Capstone/assets/94132443/1a0148b3-65fe-4b73-9963-4260b8a8160b)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Little-lemon-native-profile](https://github.com/dBish6/Little_Lemon_Native_Capstone/assets/94132443/2421673c-40e1-4050-aeff-7210900982a6)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Little-lemon-native-home](https://github.com/dBish6/Little_Lemon_Native_Capstone/assets/94132443/9ef0a645-c98b-48ae-bb0b-623735e0b4ee)
 
