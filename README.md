@@ -1,5 +1,5 @@
 # Meta_React_Native_Capstone
-This repository showcases my final capstone project from the Meta React Native Specialization certificate. The project demonstrates my skills and knowledge acquired during the course, presenting the mobile version of the Little Lemon Bistro developed in React Native.
+This repository showcases my final capstone project from the Meta React Native Specialization certificate. The project demonstrates my skills and knowledge acquired during the course, presenting the cross-platform mobile version of the Little Lemon Bistro developed in React Native.
 
 If you really want the source code, visit [here](https://www.buymeacoffee.com/dbish/e/229793).
 
@@ -7,7 +7,7 @@ If you really want the source code, visit [here](https://www.buymeacoffee.com/db
 These are the main objectives, I also added additional things that weren't required to make the user experience and app better, which are not listed.
 
 - `Design`: Leverage the provided wireframes and design guidelines from Meta to structure and style the app interface.
-- `Onboarding Screen`: Make the first screen on the initial app launch the onboarding screen. 
+- `Onboarding Screen`: Make the first screen on the initial app launch the onboarding screen.
 - `Navigation and Authentication`: Create a proper navigation flow with authentication.
 - `User Profile`: Create a profile screen with editable user information and additional data gathered during onboarding.
 - `Data Fetching`: Fetch data from a network for the menu items.
@@ -17,6 +17,8 @@ These are the main objectives, I also added additional things that weren't requi
 - `User Interface`: Implement the design fully and make it responsive and compatible for both mobile operating systems.
 
 ## Preview
+[Preview build download](https://expo.dev/accounts/dbish/projects/Little-Lemon/builds/aeb4e4ee-729a-4bd3-890b-c68265e0d6d9) - Use an Android device or emulator to download.
+
 ![Little-lemon-native-onboarding-1](https://github.com/dBish6/Little_Lemon_Native_Capstone/assets/94132443/cd58caa7-e190-45b6-b421-14f51fbfbff7)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Little-lemon-native-onboarding-2](https://github.com/dBish6/Little_Lemon_Native_Capstone/assets/94132443/fd63498b-e132-4b30-9e11-fc4327057d1f)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Little-lemon-native-onboarding-3](https://github.com/dBish6/Little_Lemon_Native_Capstone/assets/94132443/755b2676-a1a1-4c02-a8a7-2f3b9f550804)&nbsp;&nbsp;&nbsp;&nbsp;
