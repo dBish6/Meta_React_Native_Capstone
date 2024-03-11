@@ -1,5 +1,5 @@
 # Meta_React_Native_Capstone
-This repository showcases my final capstone project from the Meta React Native Specialization course. The project demonstrates my skills and knowledge acquired during the course, presenting the mobile version of the Little Lemon Bistro developed in React Native.
+This repository showcases my final capstone project from the Meta React Native Specialization certificate. The project demonstrates my skills and knowledge acquired during the course, presenting the mobile version of the Little Lemon Bistro developed in React Native.
 
 If you really want the source code, visit [here](https://www.buymeacoffee.com/dbish/e/229793).
 
